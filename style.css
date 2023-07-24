@@ -1,4 +1,8 @@
 @charset "UTF-8";
+body {
+  background-color: #04AA6D;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
